@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="hello-lagom-helloworld,hello-lagom-helloworld-api,hello-lagom-helloworld-consumer-api,hello-lagom-helloworld-impl,hello-lagom-helloworld-stream-api,hello-lagom-helloworld-stream-impl,user-lagom-api,user-lagom-impl" />
+  </component>
+</project>
